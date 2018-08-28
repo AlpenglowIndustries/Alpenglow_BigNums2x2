@@ -5,14 +5,14 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-BigNums2x2 KEYWORD1
+BigNums2x2	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-font KEYWORD2
-defaults KEYWORD2
+font	KEYWORD2
+defaults	KEYWORD2
 print	KEYWORD2
 
 #######################################
