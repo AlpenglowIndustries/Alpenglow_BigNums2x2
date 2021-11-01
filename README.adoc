@@ -1,6 +1,7 @@
 = BigNums2x2 Library for Arduino =
 
-This library creates 2x2 character Big Numbers and Symbols for 2x16 character LCDs, in conjunction with Arduino's Liquid Crystal library.
+Sometimes it's nice to display really big numbers on a character LCD, as well as the normal text.  This library creates 2x2 character Big Numbers and Symbols for 2x16 character LCDs, in conjunction with Arduino's Liquid Crystal library.
+
 Read about its development at: https://www.alpenglowindustries.com/blog/the-big-numbers-go-marching-2x2
 
 For more information about this library please visit us at: www.alpenglowindustries.com
